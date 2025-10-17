@@ -1,6 +1,6 @@
 <header>
   <div align="center">
-    <img width="700" src="./banners/git.gif" alt=""/>
+    <img width="700" src="./banners/git1.gif" alt=""/>
     <h1> Привет, я Давид 👋</h1><br>
     <span style="font-size: 16px;">Я студент <a href="https://mai.ru" target="_blank">Московского авиационного института</a> факультета компьютерных наук и прикладной математики</span><br>
     <span style="font-size: 16px;">направление <b>TOP IT</b></span>
