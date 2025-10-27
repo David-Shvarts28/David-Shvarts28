@@ -73,9 +73,6 @@
       <img alt="Данные по коммитам за сутки" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=David-Shvarts28&theme=github_dark"/>
     </div>
   </section>
+  ![Snake game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 </main>
-<br>
-<div align="center">
-  ![Snake animation](https://raw.githubusercontent.com/David-Shvarts28/David-Shvarts28/output/github-contribution-grid-snake.png)
-  ![Snake dark](https://raw.githubusercontent.com/David-Shvarts28/David-Shvarts28/output/github-contribution-grid-snake-dark.png)
-</div>
+
