@@ -74,3 +74,5 @@
     </div>
   </section>
 </main>
+![Snake animation](https://github.com/yourusername/your-repo/blob/output/github-contribution-grid-snake.svg)
+![Snake dark](https://github.com/yourusername/your-repo/blob/output/github-contribution-grid-snake-dark.svg)
