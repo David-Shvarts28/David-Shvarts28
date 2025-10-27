@@ -76,6 +76,6 @@
 </main>
 <br>
 <div align="center">
-  ![Snake animation](https://github.com/David-Shvarts28/David-Shvarts28/blob/output/github-contribution-grid-snake.svg)
-  ![Snake dark](https://github.com/David-Shvarts28/David-Shvarts28/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/David-Shvarts28/David-Shvarts28/output/github-contribution-grid-snake.svg)
+  ![Snake dark](https://raw.githubusercontent.com/David-Shvarts28/David-Shvarts28/output/github-contribution-grid-snake-dark.svg)
 </div>
