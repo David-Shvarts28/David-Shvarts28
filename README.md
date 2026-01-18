@@ -13,7 +13,7 @@
     <div align="left">
       <h3>💬 Языки программирования</h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=F7DF1E&color=white" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
       <img src="https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white" alt="C"/>
     </div>
     <div align="left">
