@@ -37,7 +37,7 @@
       <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Compose"/>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
       <img src="https://img.shields.io/badge/CI/CD-FF6C37?style=flat&logo=circleci&logoColor=white" alt="CI/CD"/>
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white&color=white" alt="Jira"/>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira"/>
     </div>
     <div align="left">
     <h3>🔌 API и тестирование</h3>
