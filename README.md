@@ -13,7 +13,7 @@
     <div align="left">
       <h3>💬 Языки программирования</h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&color=white" alt="JavaScript"/>
       <img src="https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white" alt="C"/>
     </div>
     <div align="left">
@@ -41,7 +41,7 @@
     <div align="left">
     <h3>🔌 API и тестирование</h3>
       <img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Bot"/>
-      <img src="https://img.shields.io/badge/REST_API-85EA2D?style=flat&logo=swagger&logoColor=black" alt="REST API"/>
+      <img src="https://img.shields.io/badge/REST_API-0F9D58?style=flat&logo=swagger&logoColor=white&color=white" alt="REST API"/>
       <img src="https://img.shields.io/badge/unittest-25A162?style=flat&logo=python&logoColor=white" alt="unittest"/>
     </div>
     <br>
